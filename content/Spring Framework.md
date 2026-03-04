@@ -1,5 +1,4 @@
 
-Spring Framework's [[inversion of control (IoC)|Inversion of Contro]] component combines modules and configurations into single application.
 
 Modules inside of Spring Framework:
 
@@ -7,3 +6,4 @@ Modules inside of Spring Framework:
 
 ## Core Container
 
+Spring Framework's [[inversion of control (IoC)|Inversion of Control]] component combines modules and configurations into single application.

@@ -16,10 +16,14 @@
 - Drawbacks
 - TTL
 
-
 ### References
+
 [Hazelcast blog post - A Hitchhiker’s Guide to Caching Patterns](https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/)
 [docs.aws.amazon.com](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html) --> only two general types discussed
+
+### Related
+
+[[distributed system]]
 
 ---
 # Active Recalls
