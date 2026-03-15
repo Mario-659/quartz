@@ -1,3 +1,6 @@
 
-Related:
-[[REST API]]
+## Related
+
+[[REST API]]; [[CDN (Content Delivery Network)]]
+
+

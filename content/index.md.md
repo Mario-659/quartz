@@ -1,7 +1,8 @@
 ---
-title: dom
----
 
+title: dom
+
+---
 # My Notes
 
 Personal notes on various topics. Main focus on software development.
