@@ -30,6 +30,14 @@ In real life scenario we are not choosing *on/off* for these properties - we are
 
 
 
+## availability vs consistency
+
+[[ACID]] philosophy:
+- traditional approach
+- consistency over availability
+
+[[BASE]] philosophy:
+- availability over consistency
 
 ## Related
 

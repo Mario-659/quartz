@@ -13,6 +13,7 @@ Collection in [Java]
 
 ### internal implementation
 
+missing
 
 ### thread safety
 
@@ -25,9 +26,7 @@ In multithread environment use [[ConcurrentHashMap]] instead. (There is also Has
 
 ### worth remembering
 
-- Allows one null key and null values
-
-
+Allows one null key and null values
 ### time complexity
 
 | Operation                  | Time Complexity | Space Complexity |
